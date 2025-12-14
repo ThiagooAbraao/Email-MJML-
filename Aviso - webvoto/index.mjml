@@ -1,0 +1,250 @@
+<mjml>
+
+ <mj-head>
+    
+        <mj-font 
+            name="'Exo 2'" 
+            href="https://fonts.googleapis.com/css2?family=Exo+2:wght@100;200;300;400;500;600;700;800;900&display=swap"
+        />
+
+    </mj-head>
+
+     <mj-body>
+
+        <mj-wrapper
+
+            background-color="#0B1021"
+            padding="0"
+        >
+
+            <mj-section
+                padding="0"
+            >
+                <mj-group>
+                    <mj-column width="20.0%">
+                        <mj-image
+                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/matodireto.png"
+                            padding="0"     
+                            width="200px" 
+                        />
+
+                        <mj-image
+                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/LinhaDouradaMaior.png"
+                            padding="0"     
+                            width="4px"
+                            height="400px" 
+                        />
+
+                        <mj-image
+                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/Arvore.png"   
+                            width="55px"
+                            padding="0px 0px 0px 5px"
+                        />
+                    </mj-column>
+                     <mj-column width="60%" padding="70px 0px 0px 0px">
+                      <mj-image
+                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/Logo.png"
+                            alt="Logo Lacuna"
+                            width="150px"
+                        />
+                        <mj-text 
+                            padding="40px 0px 0px 0px"
+                            color="#fff"
+                            font-size="24px"
+                            font-family="'Exo 2', sans-serif"
+                        >
+                            <mj-raw>
+                                <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin:0; padding:0;">
+                                    <tr>
+
+                                    <td width="15" style="vertical-align: middle;">
+                                        <div style="background:#F90355; width:5px; height:50px;"></div>
+                                        </td>
+
+                                        <td width="10"></td>
+
+                                        <td style="vertical-align: middle;">
+                                        <span>
+                                        <strong>Este é um aviso da equipe Webvoto.</strong>
+                                        </span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </mj-raw>
+                        </mj-text>
+
+                         <mj-text 
+                            padding="25px 0 0 0"
+                            font-size="20px"
+                            color="#fff"
+                            font-family="'Exo 2', sans-serif"
+                            line-height="24px"
+                        >
+                            No período entre <strong>24 de dezembro de 2025 e 04 de janeiro de 2026</strong>
+                            nossa equipe estará em recesso e não estará disponível.<br><br>
+
+                            Para qualquer eventualidade, você pode entrar em contato pelo e-mail 
+                            <strong>projetos@webvoto.com.br.</strong> Mesmo durante o recesso, faremos o possível para acompanhar as demandas 
+                            e retornaremos o mais breve possível. <br><br>
+
+                            Agradecemos pela compreensão e por escolher a Webvoto como parceira em soluções de votação online. 
+                            Desejamos um excelente fim de ano, com Feliz Natal e um próspero Ano Novo.
+                        </mj-text>
+
+
+                    </mj-column>
+                     <mj-column width="20.0%">
+                        <mj-image
+                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/matoesquerdo.png"
+                                padding="0"     
+                                width="200px" 
+                            />
+
+                            <mj-image
+                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/LinhaDouradaMaior.png"
+                                padding="0"     
+                                width="4px"
+                                height="150px" 
+                            />
+
+                            <mj-image
+                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/Arvore.png"   
+                                width="55px"
+                                padding="0px 0px 0px 5px"
+                            />
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+
+                <mj-section>
+                    <mj-group>
+                        <mj-column width="18.0%">
+                        </mj-column>
+
+                        <mj-column width="64.0%">
+                            
+                            <mj-image
+
+                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/LinhaVermelha2.png"
+                                width="80px"
+                                padding="25px 0 10px 0"
+                                align="left"
+                            />
+
+                            <mj-text padding="10px 0 0px 0"
+                                font-size="20px"
+                                color="#fff"
+                                font-family="'Exo 2', sans-serif"
+                                line-height="24px"
+                            >
+                                Atenciosamente,<br><strong>Equipe Webvoto.</strong> 
+                            </mj-text>
+                        </mj-column>
+
+                        <mj-column width="18.0%">
+                        </mj-column>
+                    </mj-group>
+                </mj-section>
+
+                <mj-section padding="2px 0px"> 
+                <mj-group>
+                    <mj-column width="18%">
+                    </mj-column>
+                    <mj-column width="64%">
+
+                        <mj-image
+                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/Logo.png"
+                            alt="Logo Lacuna"
+                            width="150px"
+                            align=left
+                            padding="30px 0px"
+                        />
+
+                        <mj-table width="100%" padding="0">
+                            <tr>
+                                <td align="left" width="30" style="padding:0 0 0 0;">
+                                    <img src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025/icones/iconeEmail.png" width="23" />
+                                </td>
+                                <td align="left" style="padding:0 0 0px 0;">
+                                    <div style="color:#F90355; font-size:10px; font-weight:700; line-height:12px;">
+                                    e-mail_
+                                    </div>
+                                    <div style="color:#fff; font-size:10px; font-weight:400; line-height:12px;">
+                                    contato@webvoto.com.br
+                                    </div>
+                                </td>
+                            </tr>
+                        </mj-table>
+                    </mj-column>
+                    <mj-column width="18%">
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+
+            <mj-section padding="2px 0px"> 
+                <mj-group>
+                    <mj-column width="18%">
+                    </mj-column>
+                    <mj-column width="64%">
+                        <mj-table width="100%" padding="0 0 5px 0">
+                            <tr>
+                                <td align="left" width="30" style="padding:0 0 0 0;">
+                                    <img src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/icones/Telefone.png" width="23" />
+                                </td>
+                                <td align="left" style="padding:0 0 5px 0;">
+                                    <div style="color:#F90355; font-size:10px; font-weight:700; line-height:12px;">
+                                    tel_
+                                    </div>
+                                    <div style="color:#fff; font-size:10px; font-weight:400; line-height:12px;">
+                                    +55 (61) 9 9294-2021
+                                    </div>
+                                </td>
+                            </tr>
+                        </mj-table>
+                    </mj-column>
+                    <mj-column width="14.5%">
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+
+            <mj-section padding="10px 0px"
+            
+            >
+                <mj-group>
+                    <mj-column width="18%">
+                    </mj-column>
+                    <mj-column width="71.0%">
+                        <mj-table align="left" width="90px" padding="0">
+                            <tr>
+                                <td width="30px" style="padding:0 0px 0 0;">
+                                    <img src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/icones/Facebook.png" width="23" />
+                                </td>
+                                <td width="30px" style="padding:0 10px;">
+                                    <img src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/icones/Instagram.png" width="23" />
+                                </td>
+                                <td width="30px" style="padding:0 0 0 0px;">
+                                    <img src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/icones/Linkidin.png" width="23" />
+                                </td>
+                            </tr>
+                        </mj-table>
+                    </mj-column>
+                    <mj-column width="14.5%">
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+
+            <mj-section 
+                padding="0px 0px 0px 0px"
+            >
+                <mj-column>
+                    <mj-raw><div></mj-raw>
+                        <mj-image
+                        src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/FundoFinal.png"
+                        padding="0"
+                    />
+                    <mj-raw></div></mj-raw>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+     </mj-body>
+</mjml>
