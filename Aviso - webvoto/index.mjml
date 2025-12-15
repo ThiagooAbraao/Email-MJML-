@@ -23,22 +23,9 @@
                 <mj-group>
                     <mj-column width="20.0%">
                         <mj-image
-                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/matodireto.png"
+                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P3/MatoLadoDireto.png"
                             padding="0"     
                             width="200px" 
-                        />
-
-                        <mj-image
-                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/LinhaDouradaMaior.png"
-                            padding="0"     
-                            width="4px"
-                            height="400px" 
-                        />
-
-                        <mj-image
-                            src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/Arvore.png"   
-                            width="55px"
-                            padding="0px 0px 0px 5px"
                         />
                     </mj-column>
                      <mj-column width="60%" padding="70px 0px 0px 0px">
@@ -95,22 +82,9 @@
                     </mj-column>
                      <mj-column width="20.0%">
                         <mj-image
-                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/matoesquerdo.png"
+                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P3/MatoLadoEsquerdo.png"
                                 padding="0"     
                                 width="200px" 
-                            />
-
-                            <mj-image
-                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/LinhaDouradaMaior.png"
-                                padding="0"     
-                                width="4px"
-                                height="150px" 
-                            />
-
-                            <mj-image
-                                src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P2/Arvore.png"   
-                                width="55px"
-                                padding="0px 0px 0px 5px"
                             />
                     </mj-column>
                 </mj-group>
@@ -163,7 +137,7 @@
                         <mj-table width="100%" padding="0">
                             <tr>
                                 <td align="left" width="30" style="padding:0 0 0 0;">
-                                    <img src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025/icones/iconeEmail.png" width="23" />
+                                    <img src="https://lacunalrs.blob.core.windows.net/public/email-assets/email-de-fim-de-ano-2025-P3/icones/Email.png" width="23" />
                                 </td>
                                 <td align="left" style="padding:0 0 0px 0;">
                                     <div style="color:#F90355; font-size:10px; font-weight:700; line-height:12px;">
